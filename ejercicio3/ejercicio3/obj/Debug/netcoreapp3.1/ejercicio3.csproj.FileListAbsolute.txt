@@ -1,0 +1,13 @@
+C:\Users\Pablo\Desktop\2anio-1cuatri\Repositorio\TPs\Tp5\ejercicio3\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.exe
+C:\Users\Pablo\Desktop\2anio-1cuatri\Repositorio\TPs\Tp5\ejercicio3\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.deps.json
+C:\Users\Pablo\Desktop\2anio-1cuatri\Repositorio\TPs\Tp5\ejercicio3\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.runtimeconfig.json
+C:\Users\Pablo\Desktop\2anio-1cuatri\Repositorio\TPs\Tp5\ejercicio3\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.runtimeconfig.dev.json
+C:\Users\Pablo\Desktop\2anio-1cuatri\Repositorio\TPs\Tp5\ejercicio3\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.dll
+C:\Users\Pablo\Desktop\2anio-1cuatri\Repositorio\TPs\Tp5\ejercicio3\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.pdb
+C:\Users\Pablo\Desktop\2anio-1cuatri\Repositorio\TPs\Tp5\ejercicio3\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.csprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\2anio-1cuatri\Repositorio\TPs\Tp5\ejercicio3\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.AssemblyInfoInputs.cache
+C:\Users\Pablo\Desktop\2anio-1cuatri\Repositorio\TPs\Tp5\ejercicio3\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.AssemblyInfo.cs
+C:\Users\Pablo\Desktop\2anio-1cuatri\Repositorio\TPs\Tp5\ejercicio3\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\2anio-1cuatri\Repositorio\TPs\Tp5\ejercicio3\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.dll
+C:\Users\Pablo\Desktop\2anio-1cuatri\Repositorio\TPs\Tp5\ejercicio3\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.pdb
+C:\Users\Pablo\Desktop\2anio-1cuatri\Repositorio\TPs\Tp5\ejercicio3\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.genruntimeconfig.cache
